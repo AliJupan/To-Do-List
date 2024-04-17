@@ -1,5 +1,4 @@
-import { useState } from 'react'
-import Route from "react-router-dom";
+import { Route } from "react-router-dom";
 import ToDoList from './screens/ToDoList';
 
 function App() {
